@@ -27,8 +27,8 @@ Feel free to make a copy of the notebook and experiment with different algorithm
 
 The project uses **Logistic Regression** to classify sonar signals as rocks or mines. The model is trained on normalized sonar data and evaluated using accuracy and precision. It provides a lightweight and efficient solution suitable for real-time submarine navigation.
 
-1. The model is trained using labeled sonar signal data.
-2. It learns the relationship between the sonar features and the object type (rock or mine).
+ - The model is trained using labeled sonar signal data.
+ - It learns the relationship between the sonar features and the object type (rock or mine).
 
 ## 📚 Learned From
 
