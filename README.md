@@ -13,7 +13,6 @@ The dataset used in this project consists of sonar signal returns collected from
 The dataset is sourced from [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines,+Rocks)) and includes:
 - 208 samples with 60 numerical features each
 - Labels indicating whether the object is a rock or a mine
-- Data with noise and variations typical of real-world sonar signals
 
 ## 🔗 Link to Colab
 
@@ -30,7 +29,6 @@ The project uses **Logistic Regression** to classify sonar signals as rocks or m
 
 1. The model is trained using labeled sonar signal data.
 2. It learns the relationship between the sonar features and the object type (rock or mine).
-3. Regularization techniques are applied to prevent overfitting and ensure robust predictions.
 
 ## 📚 Learned From
 
